@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my webDev projects are available over <strong><a href="https://akash24.netlify.app/">here</a></strong>
+- 👨‍💻 All of my webDev projects are available over <strong><a href="https://akash24.netlify.app/" target="_blank">here</a></strong>
 
 - 💬 Ask me about **React,Tailwind,HTML,CSS**
 

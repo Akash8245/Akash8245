@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Programer from India</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AI, Machine Learning and Web Development**
 
 - 👨‍💻 All of my webDev projects are available over <strong><a href="https://akash24.netlify.app/" target="_blank">here</a></strong>
 
-- 💬 Ask me about **React,Tailwind,HTML,CSS,Django**
+- 💬 Ask me about **AI,ML,SKLearn,React,Tailwind,HTML,CSS,Django**
 
 - 📫 How to reach me **akash93433@gmail.com**
 
